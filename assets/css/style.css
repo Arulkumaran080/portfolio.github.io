@@ -591,6 +591,10 @@ section {
   color: white;
   background-color: rgb(4, 93, 176);
 }
+.btn_download:hover{
+  background-color: #0678e3;
+  color: white;
+}
 
 /*--------------------------------------------------------------
 # Portfolio
